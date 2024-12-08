@@ -1,0 +1,15 @@
+# Ignore compiled files and binaries
+*.exe
+*.out
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/Editor config files
+.vscode/
+.idea/
